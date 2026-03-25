@@ -110,7 +110,7 @@ set SIM_DISPLAY_OUTPUT=anaglyph
 
 ## Pre-Built Binaries
 
-Check [Releases](https://github.com/DisplayXR/displayxr-demo/releases) for pre-built executables.
+Check [Releases](https://github.com/DisplayXR/displayxr-demos/releases) for pre-built executables.
 
 ## Documentation
 
